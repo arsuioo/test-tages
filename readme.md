@@ -21,6 +21,7 @@
        "access_token": "vk1.a.CjtyyAOvFYq4qBY_DpPXy31SXwP-96xBX91tJFJLdLdcF20w9J_WLeBauCHBkaO8YW5iQY6Copmd9clHKQ_Idr3Szc2TEMoJG4300QV5uPVbk0llyG3DVpoKg2z5tZZhn3k8x146HJJXeBXQt2Hq91h_TUNKD9tlsefGmKW-10hQCiRQkqJ2U69Z_4T7W8Cl5pL9VDd24rJPjPfRX7quZQ",
        "v": "5.199"
    }
+   
 2. После отправки получаем ответ с id комментария:
     {
         "response": 184
